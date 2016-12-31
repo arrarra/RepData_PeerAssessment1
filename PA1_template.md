@@ -1,4 +1,4 @@
-# Reproducible Research: Peer Assessment 1
+# Peer-graded Assignment: Course Project 1
 
 ## Loading the libraries
 
